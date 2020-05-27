@@ -1,0 +1,1 @@
+export default 'Hello,I\'\m default export :3'
